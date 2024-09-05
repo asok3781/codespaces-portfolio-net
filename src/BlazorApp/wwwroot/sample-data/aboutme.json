@@ -1,12 +1,10 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a software engineer based in Auckland. I graduated from the University of Auckland, earning myself a Bachelors of Software Engineering (First Class Honours) with a Senior Scholar Award. My honours project was on quantifying multitasking behaviour through digital logs and objective measurement. I am interested in full stack software engineering.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Human computer interaction engineering",
+    "Agile processes",
+    "Python, Java, Javascript",
+    "3D Design/CAD"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about developing my skillset as a software engineering, gradually improving my craft with intention. I draw inspiration from not only my travels abroad, but aspects of my everyday life, focusing on improving with discipline and responsibility."
 }
