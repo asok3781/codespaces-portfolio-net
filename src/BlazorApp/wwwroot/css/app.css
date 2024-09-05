@@ -10,7 +10,7 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Monaco", sans-serif;
 }
 
 div#main {
@@ -48,7 +48,7 @@ section img.background {
 
 h1 {
   font-weight: 300;
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Monaco", sans-serif;
   font-size: 7rem;
   margin: 0;
 }
@@ -56,7 +56,7 @@ h1 {
 @media screen and (max-width: 300px) {
   h1 {
     font-weight: 300;
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Monaco", sans-serif;
     font-size: 3rem;
     margin: 0;
   }
@@ -65,7 +65,7 @@ h1 {
 @media screen and (min-width: 301px) and (max-width: 360px) {
   h1 {
     font-weight: 300;
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Monaco", sans-serif;
     font-size: 4rem;
     margin: 0;
   }
@@ -74,7 +74,7 @@ h1 {
 @media screen and (min-width: 361px) and (max-width: 420px) {
   h1 {
     font-weight: 300;
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Monaco", sans-serif;
     font-size: 5rem;
     margin: 0;
   }
