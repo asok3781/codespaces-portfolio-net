@@ -2,15 +2,13 @@
 * CSS file to hold styles that apply across the application
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
-
 html,
 body {
   margin: 0;
   padding: 0;
   height: 100%;
   width: 100%;
-  font-family: "Monaco", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 div#main {
@@ -48,7 +46,7 @@ section img.background {
 
 h1 {
   font-weight: 300;
-  font-family: "Monaco", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 7rem;
   margin: 0;
 }
@@ -56,7 +54,7 @@ h1 {
 @media screen and (max-width: 300px) {
   h1 {
     font-weight: 300;
-    font-family: "Monaco", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     font-size: 3rem;
     margin: 0;
   }
@@ -65,7 +63,7 @@ h1 {
 @media screen and (min-width: 301px) and (max-width: 360px) {
   h1 {
     font-weight: 300;
-    font-family: "Monaco", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     font-size: 4rem;
     margin: 0;
   }
@@ -74,7 +72,7 @@ h1 {
 @media screen and (min-width: 361px) and (max-width: 420px) {
   h1 {
     font-weight: 300;
-    font-family: "Monaco", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     font-size: 5rem;
     margin: 0;
   }
